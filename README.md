@@ -1,7 +1,5 @@
-## Hi there 👋
-
-###<!--
-
+### Hi there 👋
+##
 - 🔭 I’m currently working on finishing high school!
 - 🌱 I’m currently learning Java!
 - 👯 I’m looking to collaborate on future projects!
